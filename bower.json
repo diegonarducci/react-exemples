@@ -1,0 +1,20 @@
+{
+  "name": "react-example",
+  "version": "1.0.0",
+  "authors": [
+    "Diego Narducci <diego@css4html.com.br>"
+  ],
+  "description": "Projeto de exemplo para Apresentaçao",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
